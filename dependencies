@@ -1,0 +1,4 @@
+ xvfb.
+ openbox. 
+ x11vnc.
+ noVNC. Descargar desde https://github.com/kanaka/noVNC.
