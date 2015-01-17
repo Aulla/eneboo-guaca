@@ -26,9 +26,8 @@ NAME="$(basename $0)"
 NOVNC_PORT="6080"
 VNC_PORT="5900"
 DISPLAY=":30"
-
 #Ruta al binario eneboo
-ENEBOORUN="$HOME/Eneboo/bin/eneboo"
+ENEBOORUN="$HOME/Ejecutables/eneboo-build-2.4.5.1_rc6-linux64-dba/bin/eneboo"
 #Ruta al fichero de configuración openbox. Es útil para eliminar acciones del escritorio 
 OPENBOXCFG="$HOME/repos/github/eneboo-guaca/openbox/rc.xml"
 #Ruta a noVNC
